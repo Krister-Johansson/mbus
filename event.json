@@ -1,0 +1,33 @@
+{
+    "originalUrl": "https://mbus.azurewebsites.net/api/HttpTriggerJS1?code=jAN118tCGMOr/RRXvAOqELO68FESUARDCuGGeGQxkjaz4YunOSGSsQ==",
+    "method": "POST",
+    "query": {
+        "code": "jAN118tCGMOr/RRXvAOqELO68FESUARDCuGGeGQxkjaz4YunOSGSsQ=="
+    },
+    "headers": {
+        "cache-control": "no-cache",
+        "connection": "Keep-Alive",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate, br",
+        "accept-language": "sv, en; q=0.8",
+        "authorization": "Basic YWRtaW46cGFzc3dvcmQ=",
+        "host": "mbus.azurewebsites.net",
+        "max-forwards": "10",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36",
+        "origin": "chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop",
+        "postman-token": "7de6833f-6c71-3ba4-4693-9d5f4acf86e9",
+        "x-liveupgrade": "1",
+        "x-waws-unencoded-url": "/api/HttpTriggerJS1?code=jAN118tCGMOr/RRXvAOqELO68FESUARDCuGGeGQxkjaz4YunOSGSsQ==",
+        "x-original-url": "/api/HttpTriggerJS1?code=jAN118tCGMOr/RRXvAOqELO68FESUARDCuGGeGQxkjaz4YunOSGSsQ==",
+        "x-arr-log-id": "e93a8e41-3719-4fe9-a81e-996e20f1e801",
+        "disguised-host": "mbus.azurewebsites.net",
+        "x-site-deployment-id": "mbus",
+        "was-default-hostname": "mbus.azurewebsites.net",
+        "x-forwarded-for": "83.252.210.61:54070",
+        "x-arr-ssl": "2048|256|C=US, S=Washington, L=Redmond, O=Microsoft Corporation, OU=Microsoft IT, CN=Microsoft IT SSL SHA2|CN=*.azurewebsites.net",
+        "content-length": "1",
+        "content-type": "application/octet-stream"
+    },
+    "body": null,
+    "params": {}
+}
